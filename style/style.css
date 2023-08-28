@@ -215,3 +215,39 @@ nav {
     height: 360px;
     margin-left: 25px;
 }
+
+
+/* footer css */
+
+footer {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: auto;
+    background-color: black;
+    margin-top: 80px;
+    text-align: center;
+}
+
+footer h2 span {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+footer h2 {
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+footer h6 {
+    color: rgba(173, 167, 167, 0.9);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
