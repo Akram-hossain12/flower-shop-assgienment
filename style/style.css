@@ -1,0 +1,47 @@
+/* shered css style */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.primary-btn {
+    font-size: 20px;
+    color: white;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+}
+
+/* header css style */
+header{
+    width: auto;
+    height: 700px;
+    flex-shrink: 0;
+    background: rgba(229, 84, 115, 0.10);
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-title {
+    width: 580px;
+}
+
+.nav-title h2 {
+    margin-top: 132px;
+    color: hsl(0, 0%, 15%);
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.nav-title p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: -20px;
+    line-height: 30px
+}
+.banner-img img{
+   height: 700px;
+}
