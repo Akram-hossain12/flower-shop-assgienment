@@ -189,17 +189,29 @@ nav {
 .hot-deal {
     background: rgba(229, 84, 115, 0.05);
     border-radius: 8px;
-  
+
     margin-top: 120px;
     margin-bottom: 120px;
 
 }
-.hot-section{
+
+.hot-section {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 520px;
     width: 880px;
     margin: auto;
- 
+
+}
+
+.insta-img {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.insta-img img {
+    width: 280px;
+    height: 360px;
+    margin-left: 25px;
 }
