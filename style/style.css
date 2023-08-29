@@ -258,6 +258,41 @@ nav {
     line-height: normal;
     
 }
+/* review section css */
+.customer-reviwe{
+    width: 1200px;
+    margin: auto;
+}
+.review-card{
+    height: 340px;
+    width: 400px;
+    padding: 40px;
+    border-radius: 20px 0 20px 0;
+    margin-top: 80px;
+    background: rgba(229, 84, 115, 0.05);
+
+}
+.review-card h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.review-card p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+}
+.review-card img{
+    height: 100px;
+    width: 88px;
+    border-radius: 100%;
+}
+.review-section{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 20px;
+}
 
 /* footer css */
 
