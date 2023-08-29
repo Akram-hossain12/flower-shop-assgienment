@@ -216,6 +216,48 @@ nav {
     margin-left: 25px;
 }
 
+/* leatest-deal css style */
+
+.leatest-deal {
+    height: 450px;
+    width: 1200px;
+    background-image: url("/assets/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    margin: 100px auto 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.leatest-title h3 {
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.leatest-title p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.leatest-input{
+    margin-top: 20px;
+}
+
+.leatest-input input {
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    
+}
 
 /* footer css */
 
